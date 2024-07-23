@@ -1,2 +1,2 @@
 # ML-A11202214756-UAS
-Project akhir Pembelajaran Mesin
+# Klasifikasi Gambar MRI tumor otak menggunakan metode CNN(Convolutional Neural Network)
