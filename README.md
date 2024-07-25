@@ -4,6 +4,9 @@
 
 Proyek ini menggunakan Convolutional Neural Network (CNN) yang dikerjakan di google colab untuk mengklasifikasikan gambar MRI tumor otak menjadi dua kategori: Tumor dan No Tumor. Model ini dilatih dengan dataset gambar MRI tumor otak dan dapat digunakan untuk memprediksi jenis tumor pada gambar baru.
 
+Workflow dari proyek ini
+![coba 2 file drawio](https://github.com/user-attachments/assets/91634dad-79dc-42a6-9f2e-97ffe2394d90)
+
 ## Persyaratan
 
 - Akun Google Colab
@@ -32,4 +35,7 @@ Proyek ini menggunakan Convolutional Neural Network (CNN) yang dikerjakan di goo
 
 Buka google collab
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-Dan selamat mengerjakan
+
+Performa model yang dihasilkan
+![image](https://github.com/user-attachments/assets/bfc6dcaf-2454-4a30-9630-943a77436a5e)
+
